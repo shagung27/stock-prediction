@@ -86,7 +86,14 @@ This will walk you through:
 
 * **Actual vs Predicted Closing Prices** using LSTM
 
-**🔽 Graphs representation:**
+**🔽 Graphs representation:*
+
+#### Real data:
+
+![real](https://github.com/user-attachments/assets/155164d4-f863-4d13-9498-631b6acfe8ec)
+
+#### Predicted data:
+![lstm_predicted](https://github.com/user-attachments/assets/821a959b-b8cd-46b3-a2c8-dcff86ad2522)
 
 
 ### Tab 2: Stock High/Low and Volume Analysis
@@ -99,6 +106,8 @@ This will walk you through:
 ---
 
 ## 🎥 Demo Video
+[Demo](https://drive.google.com/file/d/1_hOw8p_7C3-jKj2gwQxPjPMGTLvBbiCI/view?usp=drive_link)
+
 
 
 ---
